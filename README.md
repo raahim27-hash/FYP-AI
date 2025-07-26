@@ -61,7 +61,6 @@ GCP_OLLAMA_RUN_URL=https://your-cloudrun-url
 GOOGLE_APPLICATION_CREDENTIALS=path_to_your_service_account.json
 
 3. **Install Tesseract (if not in PATH)**:
- ```bash
 Windows: https://github.com/tesseract-ocr/tesseract/wiki
 Linux/macOS: sudo apt install tesseract-ocr
 
@@ -70,7 +69,6 @@ Linux/macOS: sudo apt install tesseract-ocr
 python main.py
 
 ## 🧠 Example Use Cases
- ```bash
 "How can I start saving for retirement?"
 
 Upload a grocery receipt to automatically analyze and categorize expenses.
@@ -78,14 +76,11 @@ Upload a grocery receipt to automatically analyze and categorize expenses.
 "What are ETFs and how do they work?"
 
 ## 🛡️ License
- ```bash
 MIT License. Built for educational, personal finance, and AI exploration purposes.
 
 ## 🙌 Credits
- ```bash
 Developed by Mohammed Bin Arif(21K-3851) & Raahim Muzaffar Ishtiaq(21K-4617)
 Final Year Project – Financial LLMs
 
 ##
- ```bash
 Let me know if you want help generating a `requirements.txt`, `.gitignore`, or `.env.template` file next! ​​
