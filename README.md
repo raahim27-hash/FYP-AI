@@ -1,4 +1,4 @@
-﻿# # 💰 LLM-AI: AI-Powered Financial Assistant with OCR
+##﻿ 💰 LLM-AI: AI-Powered Financial Assistant with OCR
 
 LLM AI is a desktop application that combines the power of Large Language Models (LLMs) and Optical Character Recognition (OCR) to help users better understand and manage their personal finances. The app features a financial chatbot and a receipt scanner—all integrated into a clean, responsive UI.
 
@@ -69,19 +69,19 @@ Linux/macOS: sudo apt install tesseract-ocr
 
 python main.py
 
-**🧠 Example Use Cases**
+## 🧠 Example Use Cases
 "How can I start saving for retirement?"
 
 Upload a grocery receipt to automatically analyze and categorize expenses.
 
 "What are ETFs and how do they work?"
 
-**🛡️ License**
+## 🛡️ License
 MIT License. Built for educational, personal finance, and AI exploration purposes.
 
-**🙌 Credits**
+## 🙌 Credits
 Developed by Mohammed Bin Arif(21K-3851) & Raahim Muzaffar Ishtiaq(21K-4617)
 Final Year Project – Financial LLMs
 
-
+## 
 Let me know if you want help generating a `requirements.txt`, `.gitignore`, or `.env.template` file next! ​​
