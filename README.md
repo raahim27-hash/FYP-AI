@@ -33,7 +33,7 @@ LLM AI is a desktop application that combines the power of Large Language Models
 ---
 
 ## 📂 Project Structure
-
+```bash
 📦 LLM-AI
 ┣ 📜 main.py → App entry point
 ┣ 📜 llm_clients.py → Handles LLM model queries (Groq, GCP, local)
