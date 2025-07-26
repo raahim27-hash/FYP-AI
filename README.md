@@ -44,7 +44,7 @@ LLM AI is a desktop application that combines the power of Large Language Models
 ┃ ┣ 📜 ocr_widget.py → GUI for uploading receipts and viewing extracted data
 ┣ 📜 .env → API keys & configs (not included)
 ┣ 📜 README.md → Project documentation
-
+```
 
 ---
 
