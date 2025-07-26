@@ -55,7 +55,7 @@ LLM AI is a desktop application that combines the power of Large Language Models
    pip install -r requirements.txt
 
 2. **Set up .env**:
- ```bash
+ 
 GROQ_API_KEY=your_groq_api_key
 GCP_OLLAMA_RUN_URL=https://your-cloudrun-url
 GOOGLE_APPLICATION_CREDENTIALS=path_to_your_service_account.json
@@ -65,8 +65,7 @@ Windows: https://github.com/tesseract-ocr/tesseract/wiki
 Linux/macOS: sudo apt install tesseract-ocr
 
 4. **Run the app**:
- ```bash
-python main.py
+ python main.py
 
 ## 🧠 Example Use Cases
 "How can I start saving for retirement?"
