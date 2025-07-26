@@ -51,7 +51,7 @@ LLM AI is a desktop application that combines the power of Large Language Models
 ## 🔑 Getting Started
 
 1. **Install requirements**:
-   ```bash
+```bash
    pip install -r requirements.txt
 ```
 
