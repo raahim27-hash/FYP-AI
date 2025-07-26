@@ -1,4 +1,4 @@
-##﻿ 💰 LLM-AI: AI-Powered Financial Assistant with OCR
+## 💰 LLM-AI: AI-Powered Financial Assistant with OCR
 
 LLM AI is a desktop application that combines the power of Large Language Models (LLMs) and Optical Character Recognition (OCR) to help users better understand and manage their personal finances. The app features a financial chatbot and a receipt scanner—all integrated into a clean, responsive UI.
 
